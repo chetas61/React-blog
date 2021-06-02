@@ -4,7 +4,7 @@ const Navbar = () => {
             <h1>The Blog</h1>
             <div className="links">
                 <a href="/">Home</a>
-                <a href="/">Create New Blog</a>
+                <a href="/create">Create New Blog</a>
             </div>
             
         </nav>
